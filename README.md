@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauldan1988" alt="pauldan1988" /></a> </p>
 
-- 🔭 I’m currently working on **Podblast**
+- 🔭 I’m currently working on **Nextjsapp(Todo App)**
 
 - 🌱 I’m currently learning **Nextjs**
 
